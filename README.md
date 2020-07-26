@@ -1,9 +1,16 @@
-### My name is Kyonax 👹
+### My name is Kyonax 
 
 <p align="center">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/gifs/Github_Readme_Kyonax.gif">
 <br>
 </p>
+
+---
+
+### About me
+
+Hello there, my name is **Cristian David Moreno Riaño** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media.
+
 
 <!--
 **Kyonax/Kyonax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
