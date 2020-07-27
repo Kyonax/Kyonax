@@ -11,6 +11,8 @@
 
 Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media.
 
+I build a lot of Open Source repositories on this account and [@Synchronous_Developers](https://github.com/SynchronousTeam) account where you can check and learn about my codes.
+
 
 <!--
 **Kyonax/Kyonax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
