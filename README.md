@@ -9,7 +9,7 @@
 
 ### About me
 
-Hello there, my name is **Cristian David Moreno Riaño** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media.
+Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media.
 
 
 <!--
