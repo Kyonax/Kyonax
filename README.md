@@ -1,5 +1,7 @@
 ### My name is Kyonax
 
+[![ProfileViews](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
+
 <p align="center">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/gifs/Github_Readme_Kyonax.gif">
 <br>
@@ -22,7 +24,6 @@
     <img src="https://img.shields.io/github/followers/Kyonax?style=social">
     </a>
 </p>
-[![HitCount](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
 
 ---
 
