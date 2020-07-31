@@ -3,6 +3,8 @@
 <p align="center">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/gifs/Github_Readme_Kyonax.gif">
 <br>
+[![HitCount](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
+
 <a href="https://discord.gg/vSvgHvk" style="text-decoration: none">
 <img src="https://img.shields.io/discord/623715606184722442?color=blueviolet&label=Server&logo=discord">
 </a>
