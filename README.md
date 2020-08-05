@@ -32,7 +32,6 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <h2 align="center">Projects - OpenSource</h2>
 <p align="center">Feel free to download, learn and help</p>
 
-<center>
 <table style="width:100%;display:inline-block;align:center">
 <tr style="width:100%"><td>
 
@@ -42,10 +41,10 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 |                                    <a href="https://github.com/Kyonax/bot-discord-synchronous" target="_blank">**Github - Synchronous Bot**</a>                                     |
 
 </td></tr>
-</table>
-</center>
 
-<center>
+<tr>
+<td>
+
 <table>
 <tr><th><b>Montgomery RP</b></th><th><b>Repositories</b></th></tr>
 <tr><td>
@@ -63,9 +62,10 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 
 </td>
 </tr>
-</center>
+</table>
 
-<h2 align="center">Set of Repositories - OpenSource</h2>
-<p align="center">This Repositories are part from a big project called Montgomery RP</p>
+</td>
+</tr>
+</table>
 
 [![ProfileViews](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
