@@ -54,9 +54,12 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 
 </td>
 
+<td>
+
 |[mta-resource-init](https://github.com/SynchronousTeam/mta-resource-init)|
 |[mta-resource-tooltip](https://github.com/SynchronousTeam/mta-resource-tooltip)|
 
+</td>
 </tr>
 </center>
 
