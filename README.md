@@ -27,7 +27,7 @@
 
 ### About me
 
-Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media. I build a lot of Open Source repositories on this and [@Synchronous_Developers](https://github.com/SynchronousTeam) account, where you can check and learn about my codes.
+Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media. I build a lot of Open Source repositories on this and [@Synchronous_Developers](https://github.com/SynchronousTeam) account, where you can check and learn about my codes.
 
 <h2 align="center">Projects - OpenSource</h2>
 <p align="center">Feel free to download, learn and help</p>
@@ -44,7 +44,7 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <td>
 
 <table>
-<tr><th><b>Montgomery RP</b></th><th><b>Repositories</b></th></tr>
+<tr><th><b>Montgomery RP</b></th><th><b>Github - Repositories</b></th></tr>
 <tr><td>
 
 <img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'>
@@ -65,5 +65,16 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 </td>
 </tr>
 </table>
+
+<h2 align="center">Knowledge</h2>
+<p align="center">Languages that I learned</p>
+
+<div align="center">
+<img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Java.png' height='50px'>
+<img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Html.png' height='50px'>
+<img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Js.png' height='50px'>
+<img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_NodeJs.png' height='50px'>
+<img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Lua.png' height='50px'>
+</div>
 
 [![ProfileViews](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
