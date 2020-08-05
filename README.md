@@ -36,7 +36,7 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <table style="width:100%;display:inline-block;align:center">
 <tr style="width:100%"><td>
 
-|                                                                             <p>**Synchronous Bot**</p>                                                                              |
+|                                                                                 **Synchronous Bot**                                                                                 |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img align='center' src='https://github.com/Kyonax/bot-discord-synchronous/blob/master/database/multimedia/images/demo/logo/Image_Logo_Discord_Bot_Synchronous.png' height='100px'> |
 |                                    <a href="https://github.com/Kyonax/bot-discord-synchronous" target="_blank">**Github - Synchronous Bot**</a>                                     |
@@ -50,14 +50,16 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <tr><th><b>Montgomery RP</b></th><th><b>Repositories</b></th></tr>
 <tr><td>
 
-|<img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'>|
+<img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'>
 
 </td>
 
 <td>
 
-|[mta-resource-init](https://github.com/SynchronousTeam/mta-resource-init)|
-|[mta-resource-tooltip](https://github.com/SynchronousTeam/mta-resource-tooltip)|
+|                                 **On Develop**                                  |
+| :-----------------------------------------------------------------------------: |
+|    [mta-resource-init](https://github.com/SynchronousTeam/mta-resource-init)    |
+| [mta-resource-tooltip](https://github.com/SynchronousTeam/mta-resource-tooltip) |
 
 </td>
 </tr>
