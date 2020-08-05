@@ -44,10 +44,10 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <td>
 
 <table>
-<tr><th><b>Montgomery RP</b></th><th><b>Github - Repositories</b></th></tr>
+<tr><th><b>Montgomery RP</b></th><th><b>Github - Repositories</b></th><th><b>Organization</b></th></tr>
 <tr><td>
 
-<img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'>
+<img align='center' src='https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Montgomery.png' height='100px'>
 
 </td>
 
@@ -57,6 +57,13 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 | :-----------------------------------------------------------------------------: |
 |    [mta-resource-init](https://github.com/SynchronousTeam/mta-resource-init)    |
 | [mta-resource-tooltip](https://github.com/SynchronousTeam/mta-resource-tooltip) |
+
+</td>
+<td>
+
+|                                                            **Synchronous Developers**                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'> |
 
 </td>
 </tr>
@@ -72,7 +79,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <div align="center">
 <img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Java.png' height='50px'>
 <img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Html.png' height='50px'>
-<img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Js.png' height='50px'>
+<img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Js.jpg' height='50px'>
 <img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_NodeJs.png' height='50px'>
 <img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Lua.png' height='50px'>
 </div>
