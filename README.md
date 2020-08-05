@@ -23,6 +23,8 @@
 </p>
 </div>
 
+(setq markdown-css-paths '("css/Table.css"))
+
 ---
 
 ### About me
@@ -45,15 +47,7 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <p align="center">This Repositories are part from a big project called Montgomery RP</p>
 
 <center>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
