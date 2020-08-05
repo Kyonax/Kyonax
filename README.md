@@ -32,7 +32,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 ---
 
 <table style="width:100%;display:inline-block;align:center">
-<tr><b>Projects - OpenSource</b></tr></br>
+<tr><td><b>Projects - OpenSource</b></td></tr></br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
