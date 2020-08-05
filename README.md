@@ -33,7 +33,6 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <p align="center">Feel free to download, learn and help</p>
 
 <center>
-
 <table style="width:100%" align="center">
 <tr style="width:100%"><td>
 
@@ -44,7 +43,6 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 
 </td></tr>
 </table>
-
 </center>
 
 <h2 align="center">Set of Repositories - OpenSource</h2>
