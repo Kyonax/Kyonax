@@ -33,26 +33,20 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <p align="center">Feel free to download, learn and help</p>
 
 <center>
-
 |                                                                             <p>**Synchronous Bot**</p>                                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img align='center' src='https://github.com/Kyonax/bot-discord-synchronous/blob/master/database/multimedia/images/demo/logo/Image_Logo_Discord_Bot_Synchronous.png' height='100px'> |
 |                                    <a href="https://github.com/Kyonax/bot-discord-synchronous" target="_blank">**Github - Synchronous Bot**</a>                                     |
-
 </center>
 
 <h2 align="center">Set of Repositories - OpenSource</h2>
 <p align="center">This Repositories are part from a big project called Montgomery RP</p>
 
 <center>
-
-|                                                             <p>**Montgomery RP**</p>                                                             | <p>**Repositories**</p>                                                   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------- |
-| <img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'> | [mta-resource-init](https://github.com/SynchronousTeam/mta-resource-init) |
-
-| +--------------------------+
-| | [mta-resource-tooltip](https://github.com/SynchronousTeam/mta-resource-tooltip) |
-
+|                                                             <p>**Montgomery RP**</p>                                                             | <p>**Repositories**</p>                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------- |
+| <img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'> | [mta-resource-init](https://github.com/SynchronousTeam/mta-resource-init)       |
+|                                                                                                                                                  | [mta-resource-tooltip](https://github.com/SynchronousTeam/mta-resource-tooltip) |
 </center>
 
 [![ProfileViews](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
