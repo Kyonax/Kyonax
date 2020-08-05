@@ -35,7 +35,7 @@ Hello there!, my name is **Cristian Moreno** but you just call me **Kyonax**, I'
 <center>
 
 <table style="width:100%" align="center">
-<tr><td>
+<tr style="width:100%"><td>
 
 |                                                                             <p>**Synchronous Bot**</p>                                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
