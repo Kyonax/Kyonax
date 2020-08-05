@@ -29,10 +29,14 @@
 
 Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media. I build a lot of Open Source repositories on this and [@Synchronous_Developers](https://github.com/SynchronousTeam) account, where you can check and learn about my codes.
 
-<h2 align="center">Projects - OpenSource</h2>
-<p align="center">Feel free to download, learn and help</p>
+---
 
 <table style="width:100%;display:inline-block;align:center">
+<tr><b>Projects - OpenSource</b></tr></br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <tr style="width:100%"><td style="align:center">
 
 |                                                                                 **Synchronous Bot**                                                                                 |
@@ -40,21 +44,11 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 | <img align='center' src='https://github.com/Kyonax/bot-discord-synchronous/blob/master/database/multimedia/images/demo/logo/Image_Logo_Discord_Bot_Synchronous.png' height='100px'> |
 |                                    <a href="https://github.com/Kyonax/bot-discord-synchronous" target="_blank">**Github - Synchronous Bot**</a>                                     |
 
-</td></br>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</td>
 <td>
 
 <table>
-<tr><th style="align:center"><b>Montgomery RP</b></th></br>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<th style="align:center"><b>Github - Repositories</b></th></br>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<th style="align-center"><b>Organization</b></th></tr>
+<tr><th style="align:center"><b>Montgomery RP</b></th><th style="align:center"><b>Github - Repositories</b></th><th style="align-center"><b>Organization</b></th></tr>
 <tr><td>
 
 <img align='center' src='https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Montgomery.png' height='100px'>
