@@ -61,7 +61,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 </td>
 <td>
 
-|                                                            **Synchronous Developers**                                                            |
+|                           <a href="https://github.com/SynchronousTeam" target="_blank">**Synchronous Developers**</a>                            |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'> |
 
