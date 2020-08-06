@@ -73,9 +73,6 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 </tr>
 </table>
 
-![Kyonax's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyonax&show_icons=true&theme=radical) <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyonax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="center">Knowledge</h2>
 <p align="center">Languages and Tools</p>
 
@@ -86,5 +83,12 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_NodeJs.png' height='50px'>
 <img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Lua.png' height='50px'>
 </div>
+
+</br>
+
+---
+
+![Kyonax's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyonax&show_icons=true) <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyonax)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ProfileViews](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
