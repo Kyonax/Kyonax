@@ -74,7 +74,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 </table>
 
 ![Kyonax's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyonax&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyonax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyonax&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Knowledge</h2>
 <p align="center">Languages and Tools</p>
