@@ -27,7 +27,7 @@
 
 ### About me
 
-Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm a Full-Stack Web/App Developer and a Content Creator on the social media. I build a lot of Open Source repositories on this and [@Synchronous_Developers](https://github.com/SynchronousTeam) account, where you can check and learn about my codes.
+Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm a **Full-Stack Web/App Developer and a Content Creator on the social media**. I build a lot of Open Source repositories on this and **[@Synchronous_Developers](https://github.com/SynchronousTeam)** account, where you can check and learn about my codes.
 
 <h2 align="center">Projects - OpenSource</h2>
 <p align="center">Feel free to download, learn and help</p>
@@ -73,8 +73,10 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 </tr>
 </table>
 
+![Kyonax's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyonax&show_icons=true&theme=tokyonight)
+
 <h2 align="center">Knowledge</h2>
-<p align="center">Languages that I learned</p>
+<p align="center">Languages and Tools</p>
 
 <div align="center">
 <img src='https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Java.png' height='50px'>
