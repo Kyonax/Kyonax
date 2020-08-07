@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/14035915/kyonax">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_StackOverflow.png" height='30px'>
 </a>
-<a>
+<a href="https://www.youtube.com/channel/UCOCGuDADwciaJfnCxWoYGHA?view_as=subscriber">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_YouTube.png" height='30px'>
 </a>
 <a href="https://twitter.com/Synk_Kyo">
