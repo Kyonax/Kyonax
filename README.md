@@ -18,6 +18,7 @@
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Instagram.png" height='30px'>
 </a>
 </br>
+</br>
 <a href="https://www.twitch.tv/synk_kyonax"style="text-decoration: none">
 <img src="https://img.shields.io/twitch/status/synk_kyonax">
 </a>
