@@ -3,19 +3,19 @@
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/gifs/Github_Readme_Kyonax.gif">
 </br>
 <a href="https://www.linkedin.com/in/cristian-david-moreno-riaño-82a89b1b3/">
-<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Linkedin.png">
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Linkedin.png">
 </a>
 <a href="https://stackoverflow.com/users/14035915/kyonax">
-<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_StackOverflow.png">
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_StackOverflow.png">
 </a>
 <a>
-<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_YouTube.png">
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_YouTube.png">
 </a>
 <a href="https://twitter.com/Synk_Kyo">
-<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Twitter.png">
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Twitter.png">
 </a>
 <a href="https://www.instagram.com/themr.kyo/">
-<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Instagram.png">
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Instagram.png">
 </a>
 </br>
 <a href="https://www.twitch.tv/synk_kyonax"style="text-decoration: none">
