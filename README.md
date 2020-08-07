@@ -1,16 +1,29 @@
 <div align="center">
-<p style="display:flex;justify-content:space-between">
+<p align="justify/left/right/center">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/gifs/Github_Readme_Kyonax.gif">
-<br>
+</br>
+<a href="https://www.linkedin.com/in/cristian-david-moreno-riaño-82a89b1b3/">
+<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Linkedin.png">
+</a>
+<a href="https://stackoverflow.com/users/14035915/kyonax">
+<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_StackOverflow.png">
+</a>
+<a>
+<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_YouTube.png">
+</a>
+<a href="https://twitter.com/Synk_Kyo">
+<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Twitter.png">
+</a>
+<a href="https://www.instagram.com/themr.kyo/">
+<img src="https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Instagram.png">
+</a>
+</br>
 <a href="https://www.twitch.tv/synk_kyonax"style="text-decoration: none">
 <img src="https://img.shields.io/twitch/status/synk_kyonax">
 </a>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LY2Y46Q7DSWL&source=url"style="text-decoration: none">
 <img src="https://img.shields.io/badge/Donate-PayPal-green.svg">
 </a> 
-<a href="https://www.facebook.com/MrKyonax"style="text-decoration: none">
-<img src="https://img.shields.io/badge/MrKyonax-facebook-blue">
-</a>
 <a href="https://discord.gg/vSvgHvk" style="text-decoration: none">
 <img src="https://img.shields.io/discord/623715606184722442?color=blueviolet&label=Server&logo=discord">
 </a>
@@ -86,7 +99,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 
 </br>
 
----
+<h2 align="center">Kyonax's Stats</h2>
 
 ![Kyonax's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyonax&show_icons=true) <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyonax)](https://github.com/anuraghazra/github-readme-stats)
