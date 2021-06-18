@@ -47,7 +47,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <p align="center">Feel free to download, learn and help</p>
 
 <table >
-<tr><td style="align:center"><tr style="width:100%">
+<tr><td style="align:center">
 
 
 |                                                                                 **Synchronous Bot**                                                                                 |
