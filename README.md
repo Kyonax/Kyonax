@@ -46,7 +46,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <h2 align="center">Projects - OpenSource</h2>
 <p align="center">Feel free to download, learn and help</p>
 
-<table style="width:100%;display:inline-block;align:center">
+<table >
 <tr><td style="align:center">
 
 
