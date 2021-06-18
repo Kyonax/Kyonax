@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/github/followers/Kyonax?style=social">
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=kyonax_on"style="text-decoration: none">
-<img src="https://img.shields.io/twitter/follow/Synk_Kyo?style=social">
+<img src="https://img.shields.io/twitter/follow/kyonax_on?style=social">
 </a>
 </p>
 </div>
