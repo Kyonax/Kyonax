@@ -11,27 +11,27 @@
 <a href="https://www.youtube.com/channel/UCOCGuDADwciaJfnCxWoYGHA?view_as=subscriber">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_YouTube.png" height='30px'>
 </a>
-<a href="https://twitter.com/Synk_Kyo">
+<a href="https://twitter.com/kyonax_on">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Twitter.png" height='30px'>
 </a>
-<a href="https://www.instagram.com/themr.kyo/">
+<a href="https://www.instagram.com/kyonax_on/">
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/images/Image_Logo_Instagram.png" height='30px'>
 </a>
 </br>
 </br>
-<a href="https://www.twitch.tv/synk_kyonax"style="text-decoration: none">
+<a href="https://www.twitch.tv/kyonax_on"style="text-decoration: none">
 <img src="https://img.shields.io/twitch/status/synk_kyonax">
 </a>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LY2Y46Q7DSWL&source=url"style="text-decoration: none">
 <img src="https://img.shields.io/badge/Donate-PayPal-green.svg">
 </a> 
-<a href="https://discord.gg/vSvgHvk" style="text-decoration: none">
-<img src="https://img.shields.io/discord/623715606184722442?color=blueviolet&label=Server&logo=discord">
+<a href="https://kyonax.link/discord" style="text-decoration: none">
+<img src="https://img.shields.io/discord/763464848457072701?color=blueviolet&label=Server&logo=discord">
 </a>
 <a href="https://github.com/Kyonax?tab=followers"style="text-decoration: none">
 <img src="https://img.shields.io/github/followers/Kyonax?style=social">
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=Synk_Kyo"style="text-decoration: none">
+<a href="https://twitter.com/intent/follow?screen_name=kyonax_on"style="text-decoration: none">
 <img src="https://img.shields.io/twitter/follow/Synk_Kyo?style=social">
 </a>
 </p>
