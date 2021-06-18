@@ -78,15 +78,6 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 
 </td>
 </tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<td>
-
-<table>
 <tr><td style="align:center">
 
 |                                             **Old Projects**                                              |
