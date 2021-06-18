@@ -51,7 +51,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 
 |                                             **Discord Bots**                                              |
 | :-------------------------------------------------------------------------------------------------------: |
-| <img align='center' src='https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg' height='100px'> |
+| <img align='center' src='https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg' height='100px'> |
 |                  <a href="https://discord.com/" target="_blank">**Discord WebPage**</a>                   |
 
 </td>
@@ -87,6 +87,14 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <td>
 
 <table>
+<tr><td style="align:center">
+
+|                                             **Old Projects**                                              |
+| :-------------------------------------------------------------------------------------------------------: |
+| <img align='center' src='https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg' height='100px'> |
+|                  <a href="https://discord.com/" target="_blank">**Discord WebPage**</a>                   |
+
+</td>
 <tr><th style="align:center"><b>Montgomery RP</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Github - Repositories <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th><th style="align-center"><b>Organization</b></th></tr>
 <tr><td>
 
