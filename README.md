@@ -49,7 +49,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <table >
 <tr><td style="align:center">
 
-|                                        **Discord Bots Developed**                                         |
+|                                        **Bots Developed**                                         |
 | :-------------------------------------------------------------------------------------------------------: |
 | <img align='center' src='https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg' height='100px'> |
 |                  <a href="https://discord.com/" target="_blank">**Discord WebPage**</a>                   |
