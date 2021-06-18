@@ -79,42 +79,6 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 </td>
 </tr>
 
-<tr><td style="align:center">
-
-|                                             **Old Projects**                                              |
-| :-------------------------------------------------------------------------------------------------------: |
-| <img align='center' src='https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg' height='100px'> |
-|                  <a href="https://discord.com/" target="_blank">**Discord WebPage**</a>                   |
-
-</td>
-<tr><th style="align:center"><b>Montgomery RP</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Github - Repositories <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th><th style="align-center"><b>Organization</b></th></tr>
-<tr><td>
-
-<img align='center' src='https://github.com/SynchronousTeam/mta-resource-init/blob/master/login/src/images/Image_Logo_Montgomery.png' height='100px'>
-
-</td>
-
-<td align="center">
-
-|                                 **On Develop**                                  |
-| :-----------------------------------------------------------------------------: |
-|    [mta-resource-init](https://github.com/SynchronousTeam/mta-resource-init)    |
-| [mta-resource-tooltip](https://github.com/SynchronousTeam/mta-resource-tooltip) |
-
-</td>
-<td>
-
-| <img align='center' src='https://avatars0.githubusercontent.com/u/67395523?s=400&u=619287262bf85f55ae620e572f0b860cf85a3a8f&v=4' height='100px'> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------: |
-|                           <a href="https://github.com/SynchronousTeam" target="_blank">**Synchronous Devs**</a>                            |
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
 
 <h2 align="center">Knowledge</h2>
 <p align="center">Languages and Tools</p>
