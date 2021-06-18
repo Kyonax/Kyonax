@@ -49,6 +49,18 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <table >
 <tr><td style="align:center">
 
+|                                             **Discord Bots**                                              |
+| :-------------------------------------------------------------------------------------------------------: |
+| <img align='center' src='https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg' height='100px'> |
+|                  <a href="https://discord.com/" target="_blank">**Discord WebPage**</a>                   |
+
+</td>
+
+<td>
+
+<table>
+<tr><th style="align:center"><b>Synchronous Bot</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Kyonax Bot <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>
+<tr><td>
 
 |                                                                                 **Synchronous Bot**                                                                                 |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -56,7 +68,8 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 |                                    <a href="https://github.com/Kyonax/bot-discord-synchronous" target="_blank">**Github - Synchronous Bot**</a>                                     |
 
 </td>
-<td style="align:center">
+
+<td align="center">
 
 |                                           **Kyonax Bot**                                           |
 | :------------------------------------------------------------------------------------------------: |
@@ -64,6 +77,12 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 | <a href="https://github.com/Kyonax/bot-discord-kyonax" target="_blank">**Github - Kyonax Bot**</a> |
 
 </td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 <td>
 
@@ -114,5 +133,3 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 
 ![Kyonax's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyonax&show_icons=true) <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyonax)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ProfileViews](http://hits.dwyl.com/Kyonax/Kyonax.svg)](http://hits.dwyl.com/Kyonax/Kyonax)
