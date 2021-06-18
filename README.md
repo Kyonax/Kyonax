@@ -59,7 +59,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <td>
 
 <table>
-<tr><th style="align:center"><b>Synchronous Bot</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Kyonax Bot <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>
+<tr><th style="align:center"><b>2020 Year of Develop</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>2021 Year of Develop<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>
 <tr><td>
 
 |                                                                                 **Synchronous Bot**                                                                                 |
