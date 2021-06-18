@@ -49,7 +49,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <table >
 <tr><td style="align:center">
 
-|                                             **Discord Bots**                                              |
+|                                        **Discord Bots Developed**                                         |
 | :-------------------------------------------------------------------------------------------------------: |
 | <img align='center' src='https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg' height='100px'> |
 |                  <a href="https://discord.com/" target="_blank">**Discord WebPage**</a>                   |
@@ -59,7 +59,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <td>
 
 <table>
-<tr><th style="align:center"><b>2020 Year of Develop</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>2021 Year of Develop<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>
+<tr><th style="align:center"><b>2020 Year of Develop</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>2021 Year of Develop<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>New Bot Incoming<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>
 <tr><td>
 
 |                                                                                 **Synchronous Bot**                                                                                 |
@@ -75,6 +75,14 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 | :------------------------------------------------------------------------------------------------: |
 |             <img align='center' src='https://i.imgur.com/EJSWafI.png' height='100px'>              |
 | <a href="https://github.com/Kyonax/bot-discord-kyonax" target="_blank">**Github - Kyonax Bot**</a> |
+
+</td>
+<td align="center">
+
+|                                         **What Bot Next?**                                         |
+| :------------------------------------------------------------------------------------------------: |
+|             <img align='center' src='https://i.imgur.com/oFrBW5L.png' height='100px'>              |
+| <a href="https://kyonax.com" target="_blank">**New Bot Soon**</a> |
 
 </td>
 </tr>
