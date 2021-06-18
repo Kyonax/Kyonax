@@ -47,7 +47,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <p align="center">Feel free to download, learn and help</p>
 
 <table style="width:100%;display:inline-block;align:center">
-<tr style="width:100%"><td style="align:center">
+<tr><td style="align:center">
 
 
 |                                                                                 **Synchronous Bot**                                                                                 |
@@ -55,6 +55,8 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 | <img align='center' src='https://github.com/Kyonax/bot-discord-synchronous/blob/master/database/multimedia/images/demo/logo/Image_Logo_Discord_Bot_Synchronous.png' height='100px'> |
 |                                    <a href="https://github.com/Kyonax/bot-discord-synchronous" target="_blank">**Github - Synchronous Bot**</a>                                     |
 
+</td>
+<td style="align:center">
 
 |                                           **Kyonax Bot**                                           |
 | :------------------------------------------------------------------------------------------------: |
