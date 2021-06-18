@@ -59,7 +59,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 <td>
 
 <table>
-<tr><th style="align:center"><b>2020 Year of Develop</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>2021 Year of Develop<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>New Bot Incoming<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>
+<tr><th style="align:center"><b>2020 Year of Develop</b></th><th style="align:center"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>2021 Year of Develop<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>New Bot Incoming<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> </b></th>
 <tr><td>
 
 |                                                                                 **Synchronous Bot**                                                                                 |
@@ -81,7 +81,7 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 
 |                                         **What Bot Next?**                                         |
 | :------------------------------------------------------------------------------------------------: |
-|             <img align='center' src='https://i.imgur.com/oFrBW5L.png' height='100px'>              |
+|             <img align='center' src='https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg' height='100px'>              |
 | <a href="https://kyonax.com" target="_blank">**New Bot Soon**</a> |
 
 </td>
