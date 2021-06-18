@@ -81,6 +81,15 @@ Hello there! my name is **Cristian Moreno** but you just call me **Kyonax**, I'm
 
 </td>
 </tr>
+<tr style="width:100%"><td style="align:center">
+
+|                                           **Kyonax Bot**                                           |
+| :------------------------------------------------------------------------------------------------: |
+|             <img align='center' src='https://i.imgur.com/EJSWafI.png' height='100px'>              |
+| <a href="https://github.com/Kyonax/bot-discord-kyonax" target="_blank">**Github - Kyonax Bot**</a> |
+
+</td>
+</tr>
 </table>
 
 </td>
