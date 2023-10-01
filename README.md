@@ -1,4 +1,5 @@
-<!-- Axenide GitHub Profile -->
+<!-- Kyonax GitHub Profile -->
+![alt text](https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg)
 <div align="justify">
 
 <!-- Profile -->
