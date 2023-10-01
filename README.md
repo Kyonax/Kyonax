@@ -2,11 +2,11 @@
 <div align="center">
 <h1 align="center">Hello there, I'm KYO! 👋</h1>
 </div>
-![alt text](https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg)
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400)
 ![GitHub followers](https://img.shields.io/github/followers/kyonax?style=social&logo=github&logoColor=%23FFD400)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kyonax_on_tech?style=social&logoColor=%23FFD400)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkyonax_on_tech&style=social&logoColor=%23FFD400&label=Twitter)
 
 <div align="justify">
 
