@@ -10,7 +10,8 @@
 <div align="justify">
 
 <!-- Profile -->
-<div>
+<table>
+<td>
 ```ts
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣧⡀⣿⣤⣀⣾⣅⠀⢀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⣤⠲⠶⣦⡿⣿⣿⣿⣿⣿⣿⣿⣴⣴⠖
@@ -34,6 +35,9 @@
 arch in ~ 
     λ echo "Coding my world!"
 ```
+<td/>
+<td>
+
 ```ts
     jsworld@kyonax_on_tech
 ──────────────────────────────
@@ -50,6 +54,9 @@ HTML - CSS - EXPRESS - MONGODB
     JEST - MYSQL - JQUERY
 ──────────────────────────────
 ```
+<td/>
+<table/>
+
 <div/>
 <p align="center">
 <samp>
