@@ -12,7 +12,6 @@
 <table style="display:flex; width: 100%;">
 
 <tr>
-<th> 
 
 <!-- Profile -->
 ```ts
@@ -38,15 +37,6 @@ HTML - CSS - EXPRESS - MONGODB  ⠀⠀⠀⠈⠻⠿⡿⡿⣿⣿⣿⣦⣙⠢⠀⠀
 arch in ~ 
     λ echo "Coding my world!"
 ```
-
-<th/>
-
-<th>
-
-```ts
-
-```
-<th/>
 <tr/>
 
 <table/>
