@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/kyonax/" target="_blank">![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin)<a/>
 
 <table style="display:flex; width: 100%;">
-<div align="center">
+<div align="justify">
 
 <!-- Profile -->
 ```ts
