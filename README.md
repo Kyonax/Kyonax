@@ -1,6 +1,6 @@
 <!-- Kyonax GitHub Profile -->
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
-<p align="center">
+<p align="center" style="text-align: center;">
 
  <a href="https://www.reddit.com/user/kyonax_on">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400)<a/>
 ![GitHub followers](https://img.shields.io/github/followers/kyonax?style=social&logo=github&logoColor=%23FFD400)
