@@ -9,9 +9,6 @@
 
 
 <div align="justify">
-<table style="display:flex; width: 100%;">
-
-<tr style="padding-left:1.5rem;padding-right:1.5rem">
 
 <!-- Profile -->
 ```ts
@@ -37,9 +34,6 @@ HTML - CSS - EXPRESS - MONGODB  ⠀⠀⠀⠈⠻⠿⡿⡿⣿⣿⣿⣦⣙⠢⠀⠀
 arch in ~ 
     λ echo "Coding my world!"
 ```
-<tr/>
-
-<table/>
 <div/>
 
 <p align="center">
