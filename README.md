@@ -39,7 +39,7 @@ arch in ~
 ```
 <div/>
 <td/>
-<td>
+
 <div>
 
 ```ts
@@ -59,6 +59,6 @@ HTML - CSS - EXPRESS - MONGODB
 ──────────────────────────────
 ```
 <div/>
-<td/>
+
 <table/>
 
