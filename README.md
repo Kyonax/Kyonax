@@ -7,8 +7,9 @@
 <a href="https://www.instagram.com/is.kyonax/" target="_blank">![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fis.kyonax%2F&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram)<a/>
 <a href="https://www.linkedin.com/in/kyonax/" target="_blank">![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin)<a/>
 
-<table style="display:flex; width: 100%;">
+
 <div align="justify">
+<table style="display:flex; width: 100%;">
 
 <!-- Profile -->
 ```ts
@@ -34,6 +35,8 @@ HTML - CSS - EXPRESS - MONGODB  ⠀⠀⠀⠈⠻⠿⡿⡿⣿⣿⣿⣦⣙⠢⠀⠀
 arch in ~ 
     λ echo "Coding my world!"
 ```
+<table/>
+<div/>
 
 <p align="center">
 <samp>
