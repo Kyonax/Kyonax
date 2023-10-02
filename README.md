@@ -11,7 +11,7 @@
 <div align="justify">
 <table style="display:flex; width: 100%;">
 
-<tr>
+<tr style="padding-left:1.5rem;padding-right:1.5rem">
 
 <!-- Profile -->
 ```ts
