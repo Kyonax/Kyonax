@@ -42,7 +42,9 @@ arch in ~
 <th/>
 
 <th>
+```ts
 
+```
 <th/>
 <tr/>
 
