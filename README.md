@@ -10,8 +10,6 @@
 <div align="justify">
 
 <!-- Profile -->
-<table>
-<td>
 ```ts
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣧⡀⣿⣤⣀⣾⣅⠀⢀
@@ -37,27 +35,6 @@ arch in ~
     λ echo "Coding my world!"
 
 ```
-<td/>
-<td>
-
-```ts
-    jsworld@kyonax_on_tech
-──────────────────────────────
-       MY WORLD - CODES
-JS/TS: 17               BUN: 0       
-NODEJS: 7            REACT: 10
-──────────────────────────────
-           WHO AM I
-NAME: Cristian         AGE: 23
-XP: 8 YEARS     FULL-STACK DEV
-
- JS - TS - NODE - REACT - AWS
-HTML - CSS - EXPRESS - MONGODB
-    JEST - MYSQL - JQUERY
-──────────────────────────────
-```
-<td/>
-<table/>
 <div/>
 
 
