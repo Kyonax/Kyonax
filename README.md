@@ -11,7 +11,7 @@
 <div align="justify">
 
 <!-- Profile -->
-| ```ts
+```ts
                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣧⡀⣿⣤⣀⣾⣅⠀⢀ 
                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⣤⠲⠶⣦⡿⣿⣿⣿⣿⣿⣿⣿⣴⣴⠖
     jsworld@kyonax_on_tech      ⠀⠀⠀⠀⠀⠀⠀⠀⢲⣦⣿⣟⠛⡓⣀⠐⠋⢽⠟⡿⢿⣿⣿⢛⢷⣤⣤⠄
@@ -33,8 +33,7 @@ HTML - CSS - EXPRESS - MONGODB  ⠀⠀⠙⣿⣿⣿⣿⣿⣶⣌⠻⢦⡁⠀⠻⣿
                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀
 arch in ~ 
     λ echo "Coding my world!"
-``` | 
-
+```
 <div/>
 
 <p align="center">
