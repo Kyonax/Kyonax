@@ -12,7 +12,7 @@
 <div align="justify">
 
 <!-- Profile -->
-<code>
+```ts
                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣧⡀⣿⣤⣀⣾⣅⠀⢀ 
                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⣤⠲⠶⣦⡿⣿⣿⣿⣿⣿⣿⣿⣴⣴⠖
     jsworld@kyonax_on_tech      ⠀⠀⠀⠀⠀⠀⠀⠀⢲⣦⣿⣟⠛⡓⣀⠐⠋⢽⠟⡿⢿⣿⣿⢛⢷⣤⣤⠄
@@ -34,7 +34,7 @@ HTML - CSS - EXPRESS - MONGODB  ⠀⠀⠙⣿⣿⣿⣿⣿⣶⣌⠻⢦⡁⠀⠻⣿
                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀
 arch in ~ 
     λ echo "Coding my world!"
-<code/>
+```
 <div/>
 
 <p align="center">
