@@ -38,6 +38,7 @@ arch in ~
 
 <p align="center">
 <samp>
+Support My Stuff
   <br>
   <br>
   <sup>
