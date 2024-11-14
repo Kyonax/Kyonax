@@ -11,8 +11,8 @@
 
 <h3 align="center">「 Hello There :: my_name_is_kyonax<sup>京</sup> 」</h3>
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | Experienced **【Full Stack Web Developer】** with **7+** years in web apps and microservices. |   |
-|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---|
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax)](https://github.com/anuraghazra/github-readme-stats) |   |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---|
 
 <div align="justify">
 
@@ -34,7 +34,7 @@ arch in ~
 
 <p align="center">
 <samp>
-  <a>京</a>
+  <a><strong>京</strong></a>
   <br>
   <br>
   <sup>
