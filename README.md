@@ -11,7 +11,7 @@
 <div align="center">
 <p>
 <!-- Hello There -->
-<img align="right" width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
+<img align="left" width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
 <h3 align="left">Hello There!  My nombre is Kyonax</h3>
 </p>
 </div>
@@ -38,6 +38,7 @@ arch in ~
 
 <p align="center">
 <samp>
+  <br>
   <br>
   <sup>
     <b>
