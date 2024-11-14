@@ -9,6 +9,11 @@
 
 <p/>
 
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
+   <h3 align="center">Hello There! My nombre es Kyonax</h3>
+</p>
+
 <div align="justify">
 
 ``` ts
