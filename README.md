@@ -13,16 +13,21 @@
 
 <pre style="font-size: 2px; line-height: 2px; letter-spacing: unset;">
 <center>
-       ███
-██████ ███ ██████  ████         ████ iamkyo@kyo.wtf
-██████ ███ ██████  ███████      ████
-████   ███   ████  █████████    ████
-████         ████  ████  ███████████
-█████████████████  ████     ████████
-█████████████████  ████        █████
  </center>
 </pre>
 
+``` ts
+       ███
+██████ ███ ██████  ████         ████ contact me - work@kyo.wtf
+██████ ███ ██████  ███████      ████ -------------------------
+████   ███   ████  █████████    ████ Name: Cristian Moreno
+████         ████  ████  ███████████ Senior Full Stack Web Developer
+█████████████████  ████     ████████ 
+█████████████████  ████        █████ @kyonax_on_tech - @is.kyonax
+
+arch in ~ 
+    λ echo "Coding my world!"
+```
 
 <!-- Profile -->
 ```ts
