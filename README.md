@@ -11,12 +11,9 @@
 
 <h3 align="center">「 Hello There :: my_name_is_kyonax<sup>京</sup> 」</h3>
 
-<center>
-
 I'm a **「Full Stack Web Dev」** with **8+** years of wrangling code and leading teams in both __«English and Spanish»__ for web-apps, e-commerce, crypto, and microservices; All the projects/repos are built from the scratch, to level up and refine my skills as a Dev. Currently working as a **「Senior Software Engineer at Softtek」**
 
-<p width="300">〝Now I'm building my version of the digital world by creating projects, and doing <strong>Content Creation</strong>... I'm still working on it〞</p>
-</center>
+Now I'm building my version of the digital world by creating projects,〝 and doing **Content Creation**... I'm still working on it〞
  
 
 | <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) |   |
