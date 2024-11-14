@@ -11,7 +11,7 @@
 
 <div align="justify">
 
-<pre style="font-size: 3px; line-height: 3px; letter-spacing: unset;">
+<pre style="font-size: 2px; line-height: 2px; letter-spacing: unset;">
 <center>
                                              ###
 #####      #####  ####         #####  ###### ### ######  ####         ####  ###################  #######    #######
