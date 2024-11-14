@@ -47,4 +47,3 @@ arch in ~
   </sup>
 </samp>
 </p>
-<table/>
