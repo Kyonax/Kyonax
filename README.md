@@ -39,8 +39,6 @@ arch in ~
 <p align="center">
 <samp>
 Support My Stuff
-  <br>
-  <br>
   <sup>
     <b>
     <a href="https://ko-fi.com/kyonax_on_tech">❤️ Ko-Fi</a>
