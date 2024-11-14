@@ -6,21 +6,12 @@
 <a href="https://twitter.com/kyonax_on_tech" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkyonax_on_tech&style=social&logoColor=%23FFD400&label=Twitter"/><a/>
 <a href="https://www.instagram.com/is.kyonax/" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fis.kyonax&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/>
 <a href="https://www.linkedin.com/in/kyonax/" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin"/><a/> 
+
 <p/>
-
-<div align="center">
-<p>
-<!-- Hello There -->
-<img align="left" width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
-<h3 align="left">Hello There!  My nombre is Kyonax</h3>
-</p>
-</div>
-
 
 <div align="justify">
 
-<!-- Contact -->
-```ts
+``` ts
        ███
 ██████ ███ ██████  ████         ████ Contact Me - work@kyo.wtf
 ██████ ███ ██████  ███████      ████ -------------------------
@@ -38,7 +29,9 @@ arch in ~
 
 <p align="center">
 <samp>
-Support My Stuff
+  <a>Support My Stuff</a>
+  <br>
+  <br>
   <sup>
     <b>
     <a href="https://ko-fi.com/kyonax_on_tech">❤️ Ko-Fi</a>
@@ -51,3 +44,4 @@ Support My Stuff
   </sup>
 </samp>
 </p>
+<table/>
