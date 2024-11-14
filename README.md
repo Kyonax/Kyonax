@@ -9,7 +9,7 @@
 
 <p/>
 
-<h3 align="center">「 Hello There! <h4>my_name_is_kyonax<sup>京</sup></h4> 」</h3>
+<h3 align="center">「 Hello There! <span style="font-size: small;">my_name_is_kyonax<sup>京</sup></span> 」</h3>
 
 | <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | **Hello There! My nombre es Kyonax** |   |
 |--------------------------------------------------------------------------------------------------|--------------------------------------|---|
