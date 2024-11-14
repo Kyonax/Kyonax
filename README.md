@@ -10,8 +10,9 @@
 <p/>
 
 <div align="justify">
+
 <!-- Contact -->
-```brightscript
+```ts
        ███
 ██████ ███ ██████  ████         ████ Contact Me - work@kyo.wtf
 ██████ ███ ██████  ███████      ████ -------------------------
