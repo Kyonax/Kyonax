@@ -9,10 +9,10 @@
 
 <p/>
 
-<p align="center" width="300">
-   <img align="right" width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
-   <h3 align="left">Hello There! My nombre es Kyonax</h3>
-</p>
+<div align="center">
+  <img width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
+  <h3>Hello There! My nombre es Kyonax</h3>
+</div>
 
 <div align="justify">
 
