@@ -9,8 +9,8 @@
 
 <p/>
 
-<div align="center">
-  <img width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
+<div style="display: flex; align-items: center;">
+  <img width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" style="margin-right: 20px;" />
   <h3>Hello There! My nombre es Kyonax</h3>
 </div>
 
