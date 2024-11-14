@@ -11,8 +11,8 @@
 
 <h3 align="center">「 Hello There :: my_name_is_kyonax<sup>京</sup> 」</h3>
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | **Hello There! My nombre es Kyonax** |   |
-|--------------------------------------------------------------------------------------------------|--------------------------------------|---|
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | Experienced **【Full Stack Web Developer】** with **7+** years in web apps and microservices. Led teams in **English and Spanish**, utilizing Agile methodologies. |   |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 
 <div align="justify">
 
@@ -34,7 +34,7 @@ arch in ~
 
 <p align="center">
 <samp>
-  <a>Support My Stuff</a>
+  <a>京</a>
   <br>
   <br>
   <sup>
