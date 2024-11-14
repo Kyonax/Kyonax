@@ -9,12 +9,8 @@
 
 <p/>
 
-<div style="position: relative; width: 200px; text-align: center;">
-  <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200" style="display: block;"/>
-  <h3 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; margin: 0;">
-    Hello There! My nombre es Kyonax
-  </h3>
-</div>
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | **Hello There! My nombre es Kyonax** |
+| --- | --- |
 
 <div align="justify">
 
