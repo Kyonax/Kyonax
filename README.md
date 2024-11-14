@@ -7,18 +7,17 @@
 <a href="https://www.instagram.com/is.kyonax/" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fis.kyonax&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/>
 <a href="https://www.linkedin.com/in/kyonax/" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin"/><a/> 
 
-<p/>
 
-<div align="justify">
 <!-- Hello There -->
 <p align="center" width="300">
    <img align="right" width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
    <h3 align="left">Hello There!  My nombre is Kyonax</h3>
 </p>
-<br>
-<div/>
 
-<p align="center">
+<p/>
+
+
+<div align="justify">
 
 <!-- Contact -->
 ```ts
@@ -34,8 +33,7 @@ arch in ~
     λ echo "Coding my world!"
     λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax"
 ```
-
-<p/>
+<div/>
 
 <p align="center">
 <samp>
