@@ -11,7 +11,7 @@
 
 <h3 align="center">「 Hello There :: my_name_is_kyonax<sup>京</sup> 」</h3>
 
-I'm a **【Full Stack Web Dev】** with **8+** years of wrangling code and leading teams /(in both English and Spanish)/ for web-apps, e-commerce, crypto, and microservices; Now building my version of the digital world by creating projects, and doing Content Creation... I'm still working on it. 
+I'm a **【Full Stack Web Dev】** with **8+** years of wrangling code and leading teams __(in both English and Spanish)__ for web-apps, e-commerce, crypto, and microservices; Now building my version of the digital world by creating projects, and doing Content Creation... I'm still working on it. 
 
 Building the projects/repos from the scratch, to level up and refine my skills as a Dev.
 
