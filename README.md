@@ -15,9 +15,9 @@
 <!-- Hello There -->
 <p align="center" width="300">
    <img align="right" width="200" src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" />
-   <h3 align="center">Hello There!  My nombre is Kyonax</h3>
+   <h3 align="left">Hello There!  My nombre is Kyonax</h3>
 </p>
-
+<br>
 
 <!-- Contact -->
 ```ts
