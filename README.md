@@ -11,8 +11,8 @@
 
 <h3 align="center">「 Hello There :: my_name_is_kyonax<sup>京</sup> 」</h3>
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) |   |
-|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) |   |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---|
 
 <div align="justify">
 
