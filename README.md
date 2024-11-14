@@ -21,7 +21,7 @@ Now I'm building my version of the digital world by creating projects,〝 and do
 
 **`Cyber-Digital Enthusiast (Developer/Creator)`**
 
-If you want to follow my socials [::instagram](https://instagram.com/is.kyonax) [::twitter](https://x.com/kyonax_on) [::twitter_tech](https://x.com/kyonax_on_tech).
+If you want to follow my socials **[::instagram](https://instagram.com/is.kyonax) [::twitter](https://x.com/kyonax_on) [::twitter_tech](https://x.com/kyonax_on_tech)**.
 
 ### ⚒ :: languages_and_tools
 
