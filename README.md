@@ -11,8 +11,8 @@
 
 <h3 align="center">「 Hello There :: my_name_is_kyonax<sup>京</sup> 」</h3>
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | <div style="text-align: left;">Experienced **【Full Stack Web Developer】** with **7+** years in web apps and microservices.</div> |   |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---|
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | Experienced **【Full Stack Web Developer】** with **7+** years in web apps and microservices. |   |
+|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---|
 
 <div align="justify">
 
