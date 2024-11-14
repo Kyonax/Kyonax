@@ -9,8 +9,8 @@
 
 <p/>
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | **Hello There! My nombre es Kyonax** |
-| --- | --- |
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | **Hello There! My nombre es Kyonax** |   |
+|--------------------------------------------------------------------------------------------------|--------------------------------------|---|
 
 <div align="justify">
 
