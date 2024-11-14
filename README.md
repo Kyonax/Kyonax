@@ -15,11 +15,13 @@ I'm a **「Full Stack Web Dev」** with **8+** years of wrangling code and leadi
 
 Now I'm building my version of the digital world by creating projects,〝 and doing **Content Creation**... I'm still working on it〞
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) | <strong>デ</strong><br><strong>ベ</strong><br><strong>ロ</strong><br><strong>ッ</strong><br><strong>パ</strong><br><strong>ー</strong> |
-|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---|
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) | デ<br>ベ<br>ロ<br>ッ<br>パ<br>ー |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------|
 
 
 **`Cyber-Digital Enthusiast (Developer/Creator)`**
+
+If you want to follow my socials [::instagram](https://instagram.com/is.kyonax) [::twitter](https://x.com/kyonax_on) [::twitter_tech](https://x.com/kyonax_on_tech).
 
 ### ⚒ :: languages_and_tools
 
