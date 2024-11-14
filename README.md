@@ -14,6 +14,11 @@
 | <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) |   |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---|
 
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/android.png"/>
+
 <div align="justify">
 
 ``` ts
