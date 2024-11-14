@@ -18,7 +18,7 @@
 <br>
 <div/>
 
-<div align="justify">
+<p align="center">
 
 <!-- Contact -->
 ```ts
@@ -35,7 +35,7 @@ arch in ~
     λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax"
 ```
 
-<div/>
+<p/>
 
 <p align="center">
 <samp>
