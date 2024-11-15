@@ -75,12 +75,12 @@ arch in ~
 ```
 
 ``` py
-λ :: Still learning » Not perfect yet, but getting there...
+λ :: still learning » not perfect yet, but getting there...
    Ruby             0 Projects    [#########################] loading
    Ruby On Rails    0 Projects    [#########################] loading
    Go               0 Projects    [#########################] loading
         
-λ :: My Favorite Stuff » I love typing this...
+λ :: my favorite stuff » love typing this...
    Web Development  0 Projects    [#########################] loading
        Vanilla          0 Projects    [#########################] loading
        ReactJS          0 Projects    [#########################] loading
