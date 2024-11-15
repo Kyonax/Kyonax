@@ -1,7 +1,20 @@
-**`Cyber-Digital Enthusiast (Developer/Creator)`**
+<div align="center">
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) | デ<br>ベ<br>ロ<br>ッ<br>パ<br>ー |
-|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------|
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby" alt="Kyonax's GitHub stats"/>
+    </td>
+    <td>
+      デ<br>ベ<br>ロ<br>ッ<br>パ<br>ー
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <!-- Kyonax GitHub Profile -->
 <p align="center"> 
@@ -18,11 +31,6 @@
 I'm a **「Full Stack Web Dev」** with **8+** years of wrangling code and leading teams in both __«English and Spanish»__ for web-apps, e-commerce, crypto, and microservices; All the projects/repos are built from the scratch, to level up and refine my skills as a Dev. Currently working as a **「Senior Software Engineer at Softtek」**
 
 Now I'm building my version of the digital world by creating projects,〝 and doing **Content Creation**... I'm still working on it〞
-
-
-
-
-If you want to follow my socials **[::instagram](https://instagram.com/is.kyonax) [::twitter](https://x.com/kyonax_on) [::twitter_tech](https://x.com/kyonax_on_tech)**.
 
 ### ⚒ :: languages_and_tools
 
