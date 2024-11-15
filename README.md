@@ -1,5 +1,4 @@
 <!-- Kyonax GitHub Profile -->
-<img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
 <p align="center"> 
 <a href="https://www.reddit.com/user/kyonax_on"><img src="https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400"/><a/>
 <img src="https://img.shields.io/github/followers/Kyonax?style=social&logo=github&logoColor=%23FFD400"/>
@@ -42,6 +41,11 @@ If you want to follow my socials **[::instagram](https://instagram.com/is.kyonax
 <img align="left" alt="Bash" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Powershell" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <br />
+<br />
+
+#
+
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
 
 #
 
