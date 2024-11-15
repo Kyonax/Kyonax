@@ -51,7 +51,6 @@ Now I'm building my version of the digital world by creating projects,〝 and do
 <img align="left" alt="Bash" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Powershell" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <br />
-<br />
 
 #
 
@@ -71,8 +70,20 @@ Now I'm building my version of the digital world by creating projects,〝 and do
 █████████████████  ████        █████ 
 
 arch in ~ 
-    λ echo "Coding my world!"
-    λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax"
+        λ echo "Coding my world!"
+        λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax"
+    
+λ :: Still learning » Not perfect yet, but getting there...
+        Ruby             0 Projects    [#########################] loading
+        Ruby On Rails    0 Projects    [#########################] loading
+        Go               0 Projects    [#########################] loading
+        
+λ :: My Favorite Stuff » I love typing this...
+        Web Development  0 Projects    [#########################] loading
+            Vanilla          0 Projects    [#########################] loading
+            ReactJS          0 Projects    [#########################] loading
+            Go               0 Projects    [#########################] loading
+        Bash Scripting   0 Projects    [#########################] loading
 ```
 
 <div/>
