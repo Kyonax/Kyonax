@@ -71,8 +71,10 @@ Now I'm building my version of the digital world by creating projects,〝 and do
 
 arch in ~ 
    λ echo "Coding my world!"
-   λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax"
-    
+   λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax" 
+```
+
+``` ts
 λ :: Still learning » Not perfect yet, but getting there...
    Ruby             0 Projects    [#########################] loading
    Ruby On Rails    0 Projects    [#########################] loading
