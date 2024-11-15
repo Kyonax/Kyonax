@@ -60,7 +60,7 @@ Now I'm building my version of the digital world by creating projects,〝 and do
 
 <div align="justify">
 
-``` ts
+``` bash
        ███
 ██████ ███ ██████  ████         ████ Contact Me - work@kyo.wtf
 ██████ ███ ██████  ███████      ████ -------------------------
@@ -74,7 +74,7 @@ arch in ~
    λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax" 
 ```
 
-``` ts
+``` bash
 λ :: Still learning » Not perfect yet, but getting there...
    Ruby             0 Projects    [#########################] loading
    Ruby On Rails    0 Projects    [#########################] loading
