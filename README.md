@@ -56,14 +56,14 @@ I'm a **「Full Stack Web Dev」** with **8+** years of wrangling code and leadi
 <img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
 
 ``` r
-       ███
-██████ ███ ██████  ████         ████ Contact Me - work@kyo.wtf
-██████ ███ ██████  ███████      ████ -------------------------
-████   ███   ████  █████████    ████ Name: Cristian Moreno
-████         ████  ████  ███████████ Senior Full Stack Web Developer
+       ███                           Contact Me - work@kyo.wtf
+██████ ███ ██████  ████         ████ -------------------------
+██████ ███ ██████  ███████      ████ Name: Cristian Moreno
+████   ███   ████  █████████    ████ Nickname: Kyonax 京
+████         ████  ████  ███████████ Title: Senior Full Stack Web Developer
 █████████████████  ████     ████████ XP: 8 Years of Experience
 █████████████████  ████        █████ 
-
+                                     デベロッパー
 arch in ~ 
    λ echo "Coding my world!"
    λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax" 
