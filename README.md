@@ -1,3 +1,8 @@
+**`Cyber-Digital Enthusiast (Developer/Creator)`**
+
+| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) | デ<br>ベ<br>ロ<br>ッ<br>パ<br>ー |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------|
+
 <!-- Kyonax GitHub Profile -->
 <p align="center"> 
 <a href="https://www.reddit.com/user/kyonax_on"><img src="https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400"/><a/>
@@ -8,17 +13,14 @@
 
 <p/>
 
-<h3 align="center">「 Hello There :: my_name_is_kyonax<sup>京</sup> 」</h3>
+<h3 align="center">「 Hello There<sup>京</sup> 」</h3>
 
 I'm a **「Full Stack Web Dev」** with **8+** years of wrangling code and leading teams in both __«English and Spanish»__ for web-apps, e-commerce, crypto, and microservices; All the projects/repos are built from the scratch, to level up and refine my skills as a Dev. Currently working as a **「Senior Software Engineer at Softtek」**
 
 Now I'm building my version of the digital world by creating projects,〝 and doing **Content Creation**... I'm still working on it〞
 
-| <img src="https://github.com/Kyonax/Kyonax/blob/master/src/professional_photo.png" width="200"/> | ![Kyonax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyonax&theme=great-gatsby) | デ<br>ベ<br>ロ<br>ッ<br>パ<br>ー |
-|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------|
 
 
-**`Cyber-Digital Enthusiast (Developer/Creator)`**
 
 If you want to follow my socials **[::instagram](https://instagram.com/is.kyonax) [::twitter](https://x.com/kyonax_on) [::twitter_tech](https://x.com/kyonax_on_tech)**.
 
