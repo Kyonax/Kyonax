@@ -54,10 +54,6 @@ Now I'm building my version of the digital world by creating projects,〝 and do
 
 #
 
-<img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
-
-#
-
 <div align="justify">
 
 ``` r
@@ -73,6 +69,8 @@ arch in ~
    λ echo "Coding my world!"
    λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax" 
 ```
+
+<img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
 
 ``` py
 λ :: still learning » not perfect yet, but getting there...
