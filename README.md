@@ -14,7 +14,7 @@
 * iamkyo@kyo.wtf
 -->
 
-#### Hello There,
+### Hello There,
 My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Developer with **8+** years of wrangling code and building solutions with my own style. **(es/en)**
 
 ``` r
@@ -40,7 +40,6 @@ arch in ~
 ```
 
 I use arch btw.
-
 #
 
 <div align="center">
