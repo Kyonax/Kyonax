@@ -14,8 +14,8 @@
 * iamkyo@kyo.wtf
 -->
 
-**Hello There,**
-My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Developer with **8+** years of wrangling code and building solutions in my own way of code. **(es/en)**
+#### Hello There,
+My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Developer with **8+** years of wrangling code and building solutions with my own style. **(es/en)**
 
 ``` r
        ███                           Contact Me - work@kyo.wtf
@@ -28,7 +28,7 @@ My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Devel
                                      デベロッパー
 arch in ~ 
    λ :: ./core/lang-and-technologies »
-    Languages & Technologies  33 Skills    [#########################] loading
+    'Languages & Technologies'  29 Skills  [#########################] loading
     
     "SKILLs & TOOLs"
     | HTML/CSS | SASS     | Tailwind  | Typescript   | Next.js | React.js | Express.js | Node.js   |
@@ -38,6 +38,10 @@ arch in ~
     "LANGUAGEs"
     | Javascript | PHP | Python | Bash Scripting | Powershell Scripting |
 ```
+
+I use arch btw.
+
+#
 
 <div align="center">
 <table>
