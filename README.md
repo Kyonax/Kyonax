@@ -15,7 +15,7 @@
 -->
 
 ### Hello There,
-My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Developer with **8+** years of wrangling code and building solutions with my own style. **(es/en)**
+My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Developer with **8+** years of wrangling code and building solutions with my own style. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
 
 ``` r
        ███                           Contact Me - work@kyo.wtf
