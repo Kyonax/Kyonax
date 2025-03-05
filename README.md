@@ -1,14 +1,44 @@
-<!-- 
- * Kyonax's README File for Github
- *
- * @description
- * Personal/Short description of myself and
- * my experience as a Full Stack Web Developer.
- * 
- * Cristian Moreno - Kyonax 
- * email: iamkyo@kyo.wtf 
+<!--
+*    ___  _______   ___  __  _______
+*   / _ \/ __/ _ | / _ \/  |/  / __/
+*  / , _/ _// __ |/ // / /|_/ / _/
+* /_/|_/___/_/ |_/____/_/  /_/___v1.0
+* @kyonax_on_tech
+*
+* Read-and-Learn about me and my code, all my world
+* translated into digital algorithms.
+*
+* Last Updated: Mar 05 2025
+*
+* Cristian D. Moreno - Kyonax
+* iamkyo@kyo.wtf
 -->
- 
+
+**Hello There,**
+My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Developer with **8+** years of wrangling code and building solutions in my own way of code. **(es/en)**
+
+``` r
+       ███                           Contact Me - work@kyo.wtf
+██████ ███ ██████  ████         ████ -------------------------
+██████ ███ ██████  ███████      ████ Name: Cristian D. Moreno
+████   ███   ████  █████████    ████ Nickname: Kyonax 京
+████         ████  ████  ███████████ Working as: Senior Full Stack Web-Dev
+█████████████████  ████     ████████ XP: 8 Years of Experience
+█████████████████  ████        █████ 
+                                     デベロッパー
+arch in ~ 
+   λ :: ./core/lang-and-technologies »
+    Languages & Technologies  33 Skills    [#########################] loading
+    
+    "SKILLs & TOOLs"
+    | HTML/CSS | SASS     | Tailwind  | Typescript   | Next.js | React.js | Express.js | Node.js   |
+    | Symfony  | Shopware | Docker    | Vue.js       | MySQL   | MongoDB  | Grunt.js   | Gulp.js   |
+    | Git      | CI/CD    | AWS Cloud | Azure Devops | Hotjar  | Linux    | GA4        | Wordpress |
+    
+    "LANGUAGEs"
+    | Javascript | PHP | Python | Bash Scripting | Powershell Scripting |
+```
+
 <div align="center">
 <table>
   <tr>
@@ -32,63 +62,6 @@
   <a href="https://www.instagram.com/is.kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fis.kyonax&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/>
   <a href="https://www.linkedin.com/in/kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin"/><a/> 
 <p/>
-
-<h3 align="center">「 Hello There<sup>京</sup> 」</h3>
-
-I'm a **「Full Stack Web Dev」** with **8+** years of wrangling code and leading teams in both __«English and Spanish»__ for web-apps, e-commerce, crypto, and microservices; All the projects/repos are built from the scratch, to level up and refine my skills as a Dev. Currently working as a **「Senior Software Engineer at Softtek」**
-
-<h3>:: languages_and_tools<sup>スキル</sup> </h3>
-
-<img align="left" alt="HTML" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="SASS" width="20px" style="padding-right:3px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" />
-<img align="left" alt="JavaScript" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="PHP" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="React" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Symfony" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-<img align="left" alt="Git" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Docker" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="AWS" width="20px" style="padding-right:3px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Linux" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Powershell" width="20px" style="padding-right:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-<br />
-
-#
-
-<div align="justify">
-<img src="https://github.com/Kyonax/Kyonax/blob/master/src/KYO.jpg">
-
-``` r
-       ███                           Contact Me - work@kyo.wtf
-██████ ███ ██████  ████         ████ -------------------------
-██████ ███ ██████  ███████      ████ Name: Cristian Moreno
-████   ███   ████  █████████    ████ Nickname: Kyonax 京
-████         ████  ████  ███████████ Title: Senior Full Stack Web Developer
-█████████████████  ████     ████████ XP: 8 Years of Experience
-█████████████████  ████        █████ 
-                                     デベロッパー
-arch in ~ 
-   λ echo "Coding my world!"
-   λ socials "@kyonax_on - @kyonax_on_tech - @is.kyonax" 
-```
-
-``` py
-λ :: still learning » not perfect yet, but getting there...
-   Ruby             0 Projects    [#########################] loading
-   Ruby On Rails    0 Projects    [#########################] loading
-   Go               0 Projects    [#########################] loading
-        
-λ :: my favorite stuff » love typing this...
-   Web Development  0 Projects    [#########################] loading
-       Vanilla          0 Projects    [#########################] loading
-       ReactJS          0 Projects    [#########################] loading
-       Go               0 Projects    [#########################] loading
-   Bash Scripting   0 Projects    [#########################] loading
-```
 
 <div/>
 
