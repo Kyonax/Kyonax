@@ -8,14 +8,14 @@
 * Read-and-Learn about me and my code, all my world
 * translated into digital algorithms.
 *
-* Last Updated: Mar 05 2025
+* Last Updated: Tue Sep 2 (16:48:25) 2025
 *
 * Cristian D. Moreno - Kyonax
 * iamkyo@kyo.wtf
 -->
 
 ### Hello There,
-My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, a Network-Developer with **8+** years of wrangling code and building solutions with my own style. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
+My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, Founder & Lead Full-Stack Engineer of Zerønet Labs. I build high-perf frontend experiences and scalable microservices. Creator of reusable UI libs, CI/CD pipelines and automation. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
 
 ``` r
        ███                           Contact Me - work@kyo.wtf
