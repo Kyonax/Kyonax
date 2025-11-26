@@ -2,27 +2,27 @@
 *    ___  _______   ___  __  _______
 *   / _ \/ __/ _ | / _ \/  |/  / __/
 *  / , _/ _// __ |/ // / /|_/ / _/
-* /_/|_/___/_/ |_/____/_/  /_/___v1.0
+* /_/|_/___/_/ |_/____/_/  /_/___v1.0.1
 * @kyonax_on_tech
 *
 * Read-and-Learn about me and my code, all my world
 * translated into digital algorithms.
 *
-* Last Updated: Tue Sep 2 (16:48:25) 2025
+* Last Updated: Nov 26, 2025
 *
 * Cristian D. Moreno - Kyonax
-* iamkyo@kyo.wtf
+* kyonax.corp@gmail.com
 -->
 
 ### Hello There,
 My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, Founder & Lead Full-Stack Engineer of Zerønet Labs. I build high-perf frontend experiences and scalable microservices. Creator of reusable UI libs, CI/CD pipelines and automation. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
 
 ``` r
-       ███                           Contact Me - work@kyo.wtf
+       ███                           Contact Me - kyonax.corp@gmail.com
 ██████ ███ ██████  ████         ████ -------------------------
 ██████ ███ ██████  ███████      ████ Name: Cristian D. Moreno
 ████   ███   ████  █████████    ████ Nickname: Kyonax 京
-████         ████  ████  ███████████ Working as: Senior Full Stack Web-Dev
+████         ████  ████  ███████████ Working as: Senior Full-Stack Engineer
 █████████████████  ████     ████████ XP: 8 Years of Experience
 █████████████████  ████        █████ 
                                      デベロッパー
@@ -36,7 +36,7 @@ arch in ~
     | Git      | CI/CD    | AWS Cloud | Azure Devops | Hotjar  | Linux    | GA4        | Wordpress |
     
     "LANGUAGEs"
-    | Javascript | PHP | Python | Bash Scripting | Powershell Scripting |
+    | Javascript | PHP | Python | Rust | Bash Scripting | Powershell Scripting |
 ```
 
 I use arch btw.
@@ -62,7 +62,7 @@ I use arch btw.
   <a href="https://www.reddit.com/user/kyonax_on"><img src="https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400"/><a/>
   <img src="https://img.shields.io/github/followers/Kyonax?style=social&logo=github&logoColor=%23FFD400"/>
   <a href="https://twitter.com/kyonax_on_tech"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkyonax_on_tech&style=social&logoColor=%23FFD400&label=Twitter"/><a/>
-  <a href="https://www.instagram.com/is.kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fis.kyonax&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/>
+  <a href="https://www.instagram.com/is.kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fkyonax_on_tech&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/>
   <a href="https://www.linkedin.com/in/kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin"/><a/> 
 <p/>
 
