@@ -41,7 +41,7 @@ arch in ~
     
     'Important Data'  6 Items  [########################] 100% loaded
     
-       Location: Villavicencio, Colombia (MGT)
+       Location: Villavicencio, Colombia (GMT-5)
        Spoken Languages: English (Fluent) | Spanish (Native)
        Favorite IDE: Doom Emacs
        
@@ -53,7 +53,7 @@ arch in ~
 #### My Work
 I enjoy building useful software that saves me time, and I also create tools that can benefit others. Additionally, I am passionate about teaching and helping people make amazing things.
 
-- [org2html](https://www.npmjs.com/package/@kyonax/org2html) - npm package that helps convert `.org` files into fully-rendered HTML templates or web-framework components. /(Currently supports Vue 3 components and static HTML output.)/
+- [org2html](https://www.npmjs.com/package/@kyonax/org2html) - npm package that helps convert `.org` files into fully-rendered HTML templates or web-framework components. _(Currently supports Vue 3 components and static HTML output.)_
 - [webcam2ascii](https://github.com/Kyonax/webcam-to-ascii) – A Rust application using wgpu to capture webcam input and render it in a refined ASCII-style shader.
 
 I use emacs btw.
@@ -78,7 +78,7 @@ I use emacs btw.
 <p align="center"> 
   <a href="https://www.reddit.com/user/kyonax_on"><img src="https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400"/><a/>
   <img src="https://img.shields.io/github/followers/Kyonax?style=social&logo=github&logoColor=%23FFD400"/>
-  <a href="https://twitter.com/kyonax_on_tech"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkyonax_on_tech&style=social&logoColor=%23FFD400&label=The X Social"/><a/>
+  <a href="https://twitter.com/kyonax_on_tech"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkyonax_on_tech&style=social&logoColor=%23FFD400&label=Twitter"/><a/>
   <a href="https://www.instagram.com/kyonax_on_tech/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fkyonax_on_tech&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/>
   <a href="https://www.linkedin.com/in/kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Flinkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin"/><a/> 
 <p/>
