@@ -15,7 +15,7 @@
 -->
 
 ### Hello There,
-My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com) for [@MadisonReed](https://github.com/MadisonReed) organization being part of the e-commerce team bulding and using `Vue3` for it, Founder & Lead Full-Stack Engineer of [@ZerønetLabs](https://github.com/zeronet-labs). and Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub) I build high-perf frontend experiences and scalable microservices. Creator of reusable UI libs, npm packages, Free Software, Open Source Software, and AI automation. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
+My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com), working with the [@MadisonReed](https://github.com/MadisonReed) e-commerce team using `Vue3`, Founder & Lead Full-Stack Engineer of [@ZerønetLabs](https://github.com/zeronet-labs). and Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub) I build high-perf frontend experiences and scalable microservices. Creator of reusable UI libs, npm packages, Free Software, Open Source Software, and AI automation. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
 
 ``` r
        ███                           Contact Me - kyonax.corp@gmail.com
@@ -51,8 +51,9 @@ arch in ~
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@kyonax_on_tech?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/kick/status/mouredev?style=social)](https://kick.com/kyonax-on-tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kyonax_on_tech?style=social)](https://twitter.com/kyonax_on_tech)
-![GitHub Followers](https://img.shields.io/github/followers/kyonax_on_tech?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/kyonax_on_tech?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/kyonax?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/kyonax?style=social)
+![Static Badge](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20free%20software-yellow)
 
 #### My Work
 I enjoy building useful software that saves me time, and I also create tools that can benefit others. Additionally, I am passionate about teaching and helping people make amazing things.
