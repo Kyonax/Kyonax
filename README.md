@@ -63,7 +63,7 @@ I enjoy building useful software that saves me time, and I also create tools tha
 #### Featured Articles
 - [Cyber Code Syndicate (CCS) Article](https://zenodo.org/records/17961276?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjI5MDU0Yjc4LWE1YzAtNGEwOC05OWVjLWUzYzgwOGEwODM3ZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhMDRhMWUyYmM1YjAzMmJhMDdhYjgzMTYxNWIyNWE5ZCJ9.0ODUTx_oRc7tXHU9z4Ki-tNPaYsjYAf1YG11fPyUOuNKoPYs4azmTkPymHsKmscelN6nhYHyO2LVa2_bMvziGA) -  Community proposal and article advocating Free Software principles, open collaboration, and ethical development for Cyber Code Syndicate (CCS).
   - [English Version](https://github.com/Kyonax/ccs-article-2025-12-16-inclusive-pragmatic-free-software-community/blob/main/2025-12-16-an-inclusive-pragmatic-free-software-community.en.pdf) - An Inclusive Pragmatic Free Software Community
-  - [Versión en Español](https://github.com/Kyonax/ccs-article-2025-12-16-inclusive-pragmatic-free-software-community/blob/main/2025-12-16-an-inclusive-pragmatic-free-software-community.en.pdf) - Una Comunidad de Software Libre Inclusiva y Pragmática
+  - [Versión en Español](https://github.com/Kyonax/ccs-article-2025-12-16-inclusive-pragmatic-free-software-community/blob/main/2025-12-16-an-inclusive-pragmatic-free-software-community.es.pdf) - Una Comunidad de Software Libre Inclusiva y Pragmática
 
 I use emacs btw.
 #
