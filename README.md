@@ -49,7 +49,6 @@ arch in ~
          | Personal Website | kyonax.github.io       |
 ```
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrNDk3dbrDQL9CWd1_fjyvA?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/kick/status/mouredev?style=social)](https://kick.com/kyonax-on-tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kyonax_on_tech?style=social)](https://twitter.com/kyonax_on_tech)
 ![GitHub Followers](https://img.shields.io/github/followers/kyonax?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/kyonax?style=social)
