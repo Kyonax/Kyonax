@@ -8,14 +8,14 @@
 * Read-and-Learn about me and my code, all my world
 * translated into digital algorithms.
 *
-* Last Updated: Dec 01, 2025
+* Last Updated: Dec 16, 2025
 *
 * Cristian D. Moreno - Kyonax
 * kyonax.corp@gmail.com
 -->
 
 ### Hello There,
-My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com) for [@MadisonReed](https://github.com/MadisonReed) organization using `Vue3`, Founder & Lead Full-Stack Engineer of [@ZerønetLabs](https://github.com/zeronet-labs). and Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub) I build high-perf frontend experiences and scalable microservices. Creator of reusable UI libs, npm packages, Free Software, Open Source Software, and AI automation. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
+My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com) for [@MadisonReed](https://github.com/MadisonReed) organization being part of the e-commerce team bulding and using `Vue3` for it, Founder & Lead Full-Stack Engineer of [@ZerønetLabs](https://github.com/zeronet-labs). and Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub) I build high-perf frontend experiences and scalable microservices. Creator of reusable UI libs, npm packages, Free Software, Open Source Software, and AI automation. Cyberpunk and Sci-Fi enthusiast. **(es/en)**
 
 ``` r
        ███                           Contact Me - kyonax.corp@gmail.com
@@ -24,37 +24,41 @@ My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**, Senior Full-Sta
 ████   ███   ████  █████████    ████ Nickname: Kyonax 京
 ████         ████  ████  ███████████ Working as: Senior Full-Stack Web Developer
 █████████████████  ████     ████████ XP: 8 Years of Experience
-█████████████████  ████        █████ 
+█████████████████  ████        █████
                                      デベロッパー
-arch in ~ 
+arch in ~
    ø :: ~/.config/brain/kyo-data.sh »
     'Languages & Technologies'  33 Items  [########################] 100% loaded
-    
+
        Skills and Tools:
          | HTML/CSS | SASS     | Tailwind     | Typescript   | Next.js | React.js | Express.js | Node.js   |
          | Symfony  | Shopware | Docker       | Vue.js       | MySQL   | MongoDB  | Grunt.js   | Gulp.js   |
          | Git      | CI/CD    | AWS Cloud    | Azure Devops | Hotjar  | Linux    | GA4        | Wordpress |
          | Jest     | SSR/SSG  | Unit Testing |
-       
+
        Programming Languages:
          | Javascript | PHP | Python | Rust | Bash Scripting | Powershell Scripting |
-    
+
     'Important Data'  6 Items  [########################] 100% loaded
-    
+
        Location: Villavicencio, Colombia (GMT-5)
        Spoken Languages: English (Fluent) | Spanish (Native)
-       Favorite IDE: Doom Emacs
-       
+
        Links:
          | Linkedin         | linkedin.com/in/kyonax |
          | Personal Website | kyonax.github.io       |
 ```
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@kyonax_on_tech?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/kick/status/mouredev?style=social)](https://kick.com/kyonax-on-tech)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kyonax_on_tech?style=social)](https://twitter.com/kyonax_on_tech)
+![GitHub Followers](https://img.shields.io/github/followers/kyonax_on_tech?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/kyonax_on_tech?style=social)
 
 #### My Work
 I enjoy building useful software that saves me time, and I also create tools that can benefit others. Additionally, I am passionate about teaching and helping people make amazing things.
 
 - [org2html](https://www.npmjs.com/package/@kyonax/org2html) - npm package that helps convert `.org` files into fully-rendered HTML templates or web-framework components. _(Currently supports Vue 3 components and static HTML output.)_
-- [webcam2ascii](https://github.com/Kyonax/webcam-to-ascii) – A Rust application using wgpu to capture webcam input and render it in a refined ASCII-style shader.
+- [webcam2ascii](https://github.com/Kyonax/webcam-to-ascii) - A Rust application using wgpu to capture webcam input and render it in a refined ASCII-style shader.
 
 I use emacs btw.
 #
@@ -75,13 +79,13 @@ I use emacs btw.
 </table>
 </div>
 
-<p align="center"> 
-  <a href="https://www.reddit.com/user/kyonax_on"><img src="https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400"/><a/>
-  <img src="https://img.shields.io/github/followers/Kyonax?style=social&logo=github&logoColor=%23FFD400"/>
-  <a href="https://twitter.com/kyonax_on_tech"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkyonax_on_tech&style=social&logoColor=%23FFD400&label=Twitter"/><a/>
-  <a href="https://www.instagram.com/kyonax_on_tech/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fkyonax_on_tech&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/>
-  <a href="https://www.linkedin.com/in/kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Flinkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin"/><a/> 
-<p/>
+<!-- <p align="center"> -->
+<!--   <a href="https://www.reddit.com/user/kyonax_on"><img src="https://img.shields.io/reddit/user-karma/combined/kyonax_on?style=social&logo=reddit&logoColor=%23FFD400"/><a/> -->
+<!--   <img src="https://img.shields.io/github/followers/Kyonax?style=social&logo=github&logoColor=%23FFD400"/> -->
+<!--   <a href="https://twitter.com/kyonax_on_tech"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkyonax_on_tech&style=social&logoColor=%23FFD400&label=Twitter"/><a/> -->
+<!--   <a href="https://www.instagram.com/kyonax_on_tech/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fkyonax_on_tech&style=social&logo=instagram&logoColor=%23FFD400&label=Instagram"/><a/> -->
+<!--   <a href="https://www.linkedin.com/in/kyonax/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Flinkedin.com%2Fin%2Fkyonax%2F&style=social&logo=linkedin&logoColor=%23FFD400&label=Linkedin"/><a/> -->
+<!-- <p/> -->
 
 <div/>
 
