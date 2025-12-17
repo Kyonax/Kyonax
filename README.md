@@ -52,7 +52,7 @@ arch in ~
 [![Twitter Follow](https://img.shields.io/twitter/follow/kyonax_on_tech?style=social)](https://twitter.com/kyonax_on_tech)
 ![GitHub Followers](https://img.shields.io/github/followers/kyonax?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/kyonax?style=social)
-![Static Badge](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20free%20software-yellow)
+![Static Badge](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20free%2Fopen%20software-FFE900)
 
 #### My Work
 I enjoy building useful software that saves me time, and I also create tools that can benefit others. Additionally, I am passionate about teaching and helping people make amazing things.
