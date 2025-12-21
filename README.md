@@ -61,9 +61,9 @@ I enjoy building useful software that saves me time, and I also create tools tha
 - [webcam2ascii](https://github.com/Kyonax/webcam-to-ascii) - A Rust application using wgpu to capture webcam input and render it in a refined ASCII-style shader.
 
 #### Featured Articles
-- [Cyber Code Syndicate (CCS) Article](https://zenodo.org/records/17961276?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjI5MDU0Yjc4LWE1YzAtNGEwOC05OWVjLWUzYzgwOGEwODM3ZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhMDRhMWUyYmM1YjAzMmJhMDdhYjgzMTYxNWIyNWE5ZCJ9.0ODUTx_oRc7tXHU9z4Ki-tNPaYsjYAf1YG11fPyUOuNKoPYs4azmTkPymHsKmscelN6nhYHyO2LVa2_bMvziGA) -  Community proposal and article advocating Free Software principles, open collaboration, and ethical development for Cyber Code Syndicate (CCS).
-  - [English Version](https://github.com/Kyonax/ccs-article-2025-12-16-inclusive-pragmatic-free-software-community/blob/main/2025-12-16-an-inclusive-pragmatic-free-software-community.en.pdf) - An Inclusive Pragmatic Free Software Community
-  - [Versión en Español](https://github.com/Kyonax/ccs-article-2025-12-16-inclusive-pragmatic-free-software-community/blob/main/2025-12-16-an-inclusive-pragmatic-free-software-community.es.pdf) - Una Comunidad de Software Libre Inclusiva y Pragmática
+- [Cyber Code Syndicate (CCS) Article](https://zenodo.org/records/17994539?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY3YTQzMTE2LWQ4N2MtNGZjOC04NDc5LWFiZjYyMTg4YzQwZSIsImRhdGEiOnt9LCJyYW5kb20iOiI4MTY3MmRkYzkwNzBiMWQyYjczZDFjMzE3MzUwMWRiYSJ9.BBX99OVZpu0p9fj6Bu8g-V1M3KNmwPPBWyEBP3_h9r_U7RR7LeB_LE_t5-PgX-z3w_fdE976cv8tdVRAbTLA9A) -  Community proposal and article advocating Free Software principles, open collaboration, and ethical development for Cyber Code Syndicate (CCS).
+  - [English Version](https://github.com/Kyonax/ccs-article-2025-12-16-inclusive-pragmatic-free-software-community/blob/main/2025-12-16-building-an-ethical-and-inclusive-coding-community.en.pdf) - An Inclusive Pragmatic Free Software Community
+  - [Versión en Español](https://github.com/Kyonax/ccs-article-2025-12-16-inclusive-pragmatic-free-software-community/blob/main/2025-12-16-construyendo-una-comunidad-de-programacion-etica-e-inclusiva.es.pdf) - Una Comunidad de Software Libre Inclusiva y Pragmática
 
 I use emacs btw.
 #
