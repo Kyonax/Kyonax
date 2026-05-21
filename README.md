@@ -17,7 +17,7 @@
 -->
 
 ### Hello There,
-My name is **Cristian D. Moreno,** aka [**Kyonax<sup>京</sup>**](https://kyonax.com). Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com) on the [@MadisonReed](https://github.com/MadisonReed) e-commerce team. Founder & Lead Engineer at [@ZerønetLabs](https://github.com/zeronet-labs). Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub). I build high-perf frontends, scalable microservices, reusable UI libs, and AI automation. **(es/en)**
+My name is **Cristian D. Moreno,** aka [**Kyonax**](https://kyonax.com)**<sup>京</sup>**. Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com) on the [@MadisonReed](https://github.com/MadisonReed) e-commerce team. Founder & Lead Engineer at [@ZerønetLabs](https://github.com/zeronet-labs). Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub). I build high-perf frontends, scalable microservices, reusable UI libs, and AI automation. **(es/en)**
 
 ``` r
        ███                           Contact Me - cristian.moreno@kyonax.com
