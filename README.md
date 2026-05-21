@@ -17,7 +17,7 @@
 -->
 
 ### Hello There,
-My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**. Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com) on the [@MadisonReed](https://github.com/MadisonReed) e-commerce team (`Vue 3`). Founder & Lead Engineer at [@ZerønetLabs](https://github.com/zeronet-labs). Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub). I build high-perf frontends, scalable microservices, reusable UI libs, and AI automation. **(es/en)**
+My name is **Cristian D. Moreno,** aka **Kyonax<sup>京</sup>**. Senior Full-Stack Web Developer at [Agile Engine](https://agileengine.com) on the [@MadisonReed](https://github.com/MadisonReed) e-commerce team. Founder & Lead Engineer at [@ZerønetLabs](https://github.com/zeronet-labs). Founder Member of [@CyberCodeSyndicate](https://github.com/ccs-devhub). I build high-perf frontends, scalable microservices, reusable UI libs, and AI automation. **(es/en)**
 
 ``` r
        ███                           Contact Me - cristian.moreno@kyonax.com
@@ -35,11 +35,14 @@ arch in ~
        Location:   Villavicencio, Colombia · GMT-5 · en/es
        Channels:   CCS // ZerønetLabs // MadisonReed
        Setup:      Hyprland · Doom Emacs · Cyberpunk + Sci-Fi
+
+arch in ~
+   ø :: visit https://kyonax.com »
 ```
 [![CCS Member](https://img.shields.io/badge/CCS_Member-FFE564?&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj48cGF0aCBmaWxsPSIjOUI4MjAwIiBkPSJNIDI3IDIwMCBsIDAgMTczIDE3MyAwIDE3MyAwIDAgLTE3MyAwIC0xNzMgLTE3MyAwIC0xNzMgMCAwIDE3MyB6IG0gMzMyIDAgbCAwIDE1OSAtMTU5LjUgMCAtMTU5LjUgMCAwIC0xNTkgMCAtMTU5IDE1OS41IDAgMTU5LjUgMCAwIDE1OSB6IE0gNTIgMTIwIGwgMCA2OCA0OCAwIDQ4IDAgMCAtMjAgMCAtMjAgNTEuNSAwIDUxLjUgMCAwIDIwIDAgMjAgMjEuNSAwIDIxLjUgMCAwIC00MS41IDAgLTQxLjUgLTk0LjUgMCAtOTQuNSAwIDAgMjAgMCAyMCAtNSAwIC01IDAgMCAtMjUgMCAtMjUgMTA1IDAgMTA1IDAgMCA1MS41IDAgNTEuNSAtMTI2LjUgMCAtMTI2LjUgMCAwIDQ4IDAgNDggMTI2LjMgMC4yIDEyNi4yIDAuMyAwLjMgNS4zIDAuMyA1LjIgLTEyNi41IDAgLTEyNi42IDAgMCAyMS41IDAgMjEuNSAxNDggMCAxNDggMCAwIC00OCAwIC00OCAtMTI2LjIgLTAuMiAtMTI2LjMgLTAuMyAtMC4zIC01LjMgLTAuMyAtNS4yIDEyNi41IDAgMTI2LjYgMCAwIC05NC41IDAgLTk0LjUgLTE0OCAwIC0xNDggMCAwIDY4IHogTSAxNTkgMTczLjUgbCAwIDE0LjUgNDEgMCA0MSAwIDAgLTE0LjUgMCAtMTQuNSAtNDEgMCAtNDEgMCAwIDE0LjUgeiIvPjwvc3ZnPg==&labelColor=FFD400&style=flat-square)](https://github.com/ccs-devhub)
 [![Free / Open Software](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20free%2Fopen%20software-FFE564?labelColor=FFD400&style=flat-square)](#)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrNDk3dbrDQL9CWd1_fjyvA?style=flat-square)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kyonax_on_tech?style=flat-square)](https://twitter.com/kyonax_on_tech)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrNDk3dbrDQL9CWd1_fjyvA?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kyonax_on_tech?style=social)](https://twitter.com/kyonax_on_tech)
 
 #### My Work
 - [org2html](https://www.npmjs.com/package/@kyonax/org2html) - npm package that helps convert `.org` files into fully-rendered HTML templates or web-framework components. _(Currently supports Vue 3 components and static HTML output.)_
